@@ -21,7 +21,7 @@ You will need a modern web browser that supports WebGL.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shliamin/JS-3D-Car.git
+   git clone https://github.com/amil3955/Three.js-3D-Car.git
    cd JS-3D-Car
 
 ### Usage
